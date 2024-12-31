@@ -8,7 +8,7 @@ This project aims to predict the success of a bank telemarketing campaign using 
 Predict-Bank-Telemarketing-Success/
 ├── data/               # contains 2 datafiles train.csv and test.csv
 ├── notebooks/          # contains the python notebook
-│   └── bank_telemarketing_classification.ipynb
+│   └── notebook.ipynb
 ├── README.md           # Describes the project
 ├── requirements.txt    # Python dependencies
 └── LICENSE             # Project license
@@ -29,7 +29,7 @@ Predict-Bank-Telemarketing-Success/
    ```
 4. Open the notebook:
    ```
-   jupyter notebook notebooks/bank_telemarketing_classification.ipynb
+   jupyter notebook notebooks/notebook.ipynb
    ```
 
 ## Dataset
